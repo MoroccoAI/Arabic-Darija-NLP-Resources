@@ -27,10 +27,6 @@ This repository serves as a curated collection of resources and repositories for
 
 - [Darija Transliteration Tool](link): A web-based tool for transliterating Darija text into the Latin script for improved readability.
 
-## Darija NLP Research Papers
-
-- [A Survey of Darija NLP Techniques](link): A comprehensive survey of the existing NLP techniques applied to Darija, including text classification, named entity recognition, and machine translation.
-
 Feel free to contribute to this collection by adding more resources and repositories related to Darija NLP. You can submit pull requests or create issues to suggest additions or modifications to the existing content.
 
 **Note:** Please adhere to the licensing terms and guidelines provided by each resource or repository.
