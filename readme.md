@@ -52,9 +52,7 @@ This repository serves as a curated collection of resources and repositories for
 ## Arabic and Darija Linguistic Resources
 
 ## Arabic and Darija Communities
-- [Darija Transliteration Tool](link): A web-based tool for transliterating Darija text into the Latin script for improved readability.
-
-Feel free to contribute to this collection by adding more resources and repositories related to Darija NLP. You can submit pull requests or create issues to suggest additions or modifications to the existing content.
+- [International Conference on Arabic Computational Linguistics](https://acling.org/): A web-based tool for transliterating Darija text into the Latin script for improved readability.
 
 ## Arabic and Darija NLP Conferences
 
