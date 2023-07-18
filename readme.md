@@ -12,19 +12,17 @@ This repository serves as a curated collection of resources and repositories for
 
 ## Arabic and Darija NLP Models
 
-- [DarijaBERT](https://huggingface.co/SI2M-Lab/DarijaBERT-arabizi): Pretrained BERT models fine-tuned on Darija text data. Includes word embeddings, sentence embeddings, and various downstream tasks.
-- https://huggingface.co/Kamel/t5-darija-summarization
-- https://huggingface.co/hananour/darija-ner
-- https://huggingface.co/otmangi/MorRoBERTa
-- https://huggingface.co/otmangi/MorrBERT
-- https://huggingface.co/Goud/AraBERT-summarization-goud
-- https://github.com/AIOXLABS/DBert
-- https://huggingface.co/SI2M-Lab/DarijaBERT-arabizi
-- https://huggingface.co/SI2M-Lab/DarijaBERT-mix
-- https://huggingface.co/aubmindlab/aragpt2-base
-- https://huggingface.co/aubmindlab/bert-base-arabertv2
-- https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment
-- https://huggingface.co/TypicaAI/magbert-ner
+- [DarijaBERT Arabizi](https://huggingface.co/SI2M-Lab/DarijaBERT-arabizi): Pretrained BERT models fine-tuned on Darija text data. Includes word embeddings, sentence embeddings, and various downstream tasks.
+- [T5 darija summarization](https://huggingface.co/Kamel/t5-darija-summarization): Pretrained BERT models fine-tuned on Darija text data. Includes word embeddings, sentence embeddings, and various downstream tasks.
+- [DarijaBERT Mix](https://huggingface.co/SI2M-Lab/DarijaBERT-mix): Pretrained BERT models fine-tuned on Darija text data. Includes word embeddings, sentence embeddings, and various downstream tasks.
+- [DarijaBERT Arabizi](https://huggingface.co/otmangi/MorRoBERTa):
+- [DarijaBERT Arabizi](https://huggingface.co/otmangi/MorrBERT):
+- [DarijaBERT Arabizi](https://huggingface.co/Goud/AraBERT-summarization-goud)
+- [DarijaBERT](https://github.com/AIOXLABS/DBert)
+- [DarijaBERT Arabizi](https://huggingface.co/aubmindlab/aragpt2-base)
+- [DarijaBERT Arabizi](https://huggingface.co/aubmindlab/bert-base-arabertv2)
+- [DarijaBERT Arabizi](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment)
+- [DarijaBERT Arabizi](https://huggingface.co/TypicaAI/magbert-ner)
 
 ## Arabic and Darija NLP Frameworks
 
