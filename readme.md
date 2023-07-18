@@ -7,7 +7,7 @@ This repository serves as a curated collection of resources and repositories for
 - [Arabic and Darija NLP Models](#arabic-darija-nlp-models)
 - [Arabic and Darija NLP Frameworks](#arabic-darija-nlp-frameworks)
 - [Arabic and Darija NLP Datasets](#arabic-darija-nlp-datasets)
-- [Arabic and Darija NLP Research Lab](#arabic-darija-nlp-research-lab)
+- [Arabic and Darija NLP Research Lab](#arabic-darija-nlp-research-labs)
 - [Arabic and Darija NLP Conferences](#arabic-darija-nlp-conferences)
 - [Arabic and Darija Linguistic Resources](#arabic-darija-nlp-linguistic-resources)
 - [Arabic and Darija Communities](#arabic-darija-nlp-communities)
@@ -52,11 +52,11 @@ This repository serves as a curated collection of resources and repositories for
 ## Arabic and Darija Linguistic Resources
 
 ## Arabic and Darija Communities
-- [International Conference on Arabic Computational Linguistics](https://acling.org/): A web-based tool for transliterating Darija text into the Latin script for improved readability.
-
+- [ARBML community](https://arbml.github.io/website/index.html): ARBML is a community of +500 researchers working on Arabic NLP research and development.
+- 
 ## Arabic and Darija NLP Conferences
 
-- [Darija Transliteration Tool](link): A web-based tool for transliterating Darija text into the Latin script for improved readability.
+- [International Conference on Arabic Computational Linguistics](https://acling.org/): A web-based tool for transliterating Darija text into the Latin script for improved readability.
 
 ## Arabic and Darija NLP Research Lab
 
