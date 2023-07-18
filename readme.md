@@ -7,8 +7,11 @@ This repository serves as a curated collection of resources and repositories for
 - [Arabic and Darija NLP Models](#arabic-darija-nlp-models)
 - [Arabic and Darija NLP Frameworks](#arabic-darija-nlp-frameworks)
 - [Arabic and Darija NLP Datasets](#arabic-darija-nlp-datasets)
+- [Arabic and Darija Linguistic Resources](#arabic-darija-nlp-linguistic-resources)
 - [Arabic and Darija NLP Research Lab](#arabic-darija-nlp-research-lab)
 - [Arabic and Darija NLP Conferences](#arabic-darija-nlp-conferences)
+- [Arabic and Darija Communities](#arabic-darija-nlp-communities)
+
 
 ## Arabic and Darija NLP Models
 
@@ -39,9 +42,16 @@ This repository serves as a curated collection of resources and repositories for
 - [Moroccan news articles in modern Arabic](https://huggingface.co/datasets/J-Mourad/MNAD.v2)
 - [Sentiment Analysis dataset for under-represented African languages](https://huggingface.co/datasets/HausaNLP/AfriSenti-Twitter)
 - [Darija Dataset](https://huggingface.co/datasets/Muennighoff/xP3x/viewer/ary_Arab/train)
+- [Darija Open Dataset is an open-source collaborative project for darija ⇆ English translation](https://darija-open-dataset.github.io/)
+- [MSDA open Datasets um6p](https://msda.um6p.ma/msda_datasets)
+- [Moroccan Arabic Corpus (MAC) is a large Moroccan corpus for sentiment analysis](https://hal.science/hal-03670346)
+- [ADI17: A Fine-Grained Arabic Dialect Identification Dataset](https://www.researchgate.net/publication/338843159_ADI17_A_Fine-Grained_Arabic_Dialect_Identification_Dataset)
+- [DART, includes Maghrebi, Egyptian, Levantine, Gulf, and Iraqi Arabic](https://qspace.qu.edu.qa/handle/10576/15265)
+- [ARABIC NLP DATA CATALOGUE](https://arbml.github.io/masader/)
 
 ## Arabic and Darija Linguistic Resources
 
+## Arabic and Darija Communities
 - [Darija Transliteration Tool](link): A web-based tool for transliterating Darija text into the Latin script for improved readability.
 
 Feel free to contribute to this collection by adding more resources and repositories related to Darija NLP. You can submit pull requests or create issues to suggest additions or modifications to the existing content.
