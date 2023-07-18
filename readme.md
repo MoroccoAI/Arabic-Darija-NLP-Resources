@@ -7,37 +7,36 @@ This repository serves as a curated collection of resources and repositories for
 - [Arabic and Darija NLP Models](#arabic-darija-nlp-models)
 - [Arabic and Darija NLP Frameworks](#arabic-darija-nlp-frameworks)
 - [Arabic and Darija NLP Datasets](#arabic-darija-nlp-datasets)
-- [Arabic and Darija NLP Tools](#arabic-darija-nlp-frameworks)
 - [Arabic and Darija NLP Conferences](#arabic-darija-nlp-research-conferences)
 
 ## Arabic and Darija NLP Models
 
-- [DarijaBERT Arabizi](https://huggingface.co/SI2M-Lab/DarijaBERT-arabizi): Pretrained BERT models fine-tuned on Darija text data. Includes word embeddings, sentence embeddings, and various downstream tasks.
-- [T5 darija summarization](https://huggingface.co/Kamel/t5-darija-summarization): Pretrained BERT models fine-tuned on Darija text data. Includes word embeddings, sentence embeddings, and various downstream tasks.
-- [DarijaBERT Mix](https://huggingface.co/SI2M-Lab/DarijaBERT-mix): Pretrained BERT models fine-tuned on Darija text data. Includes word embeddings, sentence embeddings, and various downstream tasks.
-- [DarijaBERT Arabizi](https://huggingface.co/otmangi/MorRoBERTa):
-- [DarijaBERT Arabizi](https://huggingface.co/otmangi/MorrBERT):
-- [DarijaBERT Arabizi](https://huggingface.co/Goud/AraBERT-summarization-goud)
+- [DarijaBERT Arabizi](https://huggingface.co/SI2M-Lab/DarijaBERT-arabizi)
+- [T5 darija summarization](https://huggingface.co/Kamel/t5-darija-summarization)
+- [DarijaBERT Mix](https://huggingface.co/SI2M-Lab/DarijaBERT-mix)
+- [MorRoBERTa](https://huggingface.co/otmangi/MorRoBERTa)
+- [MorrBERT](https://huggingface.co/otmangi/MorrBERT)
+- [AraBERT summarization goud](https://huggingface.co/Goud/AraBERT-summarization-goud)
 - [DarijaBERT](https://github.com/AIOXLABS/DBert)
-- [DarijaBERT Arabizi](https://huggingface.co/aubmindlab/aragpt2-base)
-- [DarijaBERT Arabizi](https://huggingface.co/aubmindlab/bert-base-arabertv2)
-- [DarijaBERT Arabizi](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment)
-- [DarijaBERT Arabizi](https://huggingface.co/TypicaAI/magbert-ner)
+- [Aragpt2 base](https://huggingface.co/aubmindlab/aragpt2-base)
+- [Bert base arabertv2](https://huggingface.co/aubmindlab/bert-base-arabertv2)
+- [Bert-base-arabic-camelbert-da-sentiment](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment)
+- [Magbert-ner](https://huggingface.co/TypicaAI/magbert-ner)
 
 ## Arabic and Darija NLP Frameworks
 
-- [DarijaNLP](link): Python library for Darija text preprocessing, tokenization, stemming, and other common NLP tasks specific to Darija.
+- [Farasa](https://farasa.qcri.org/): Farasa is a package to deal with Arabic Language Processing.
+- [CAMeL Lab at New York University Abu Dhabi.](https://github.com/CAMeL-Lab/camel_tools): CAMeL Tools is a suite of Arabic natural language processing tools.
 
 ## Arabic and Darija NLP Datasets
 
-- [Darija Sentiment Analysis Dataset](link): A collection of Darija tweets annotated with sentiment labels for sentiment analysis tasks.
-- [Darija Named Entity Recognition Dataset](link): Darija text corpus annotated with named entity recognition labels for entity extraction tasks.
-
-## Arabic and Darija NLP Tools
-
-- [Darija Transliteration Tool](link): A web-based tool for transliterating Darija text into the Latin script for improved readability.
-
-Feel free to contribute to this collection by adding more resources and repositories related to Darija NLP. You can submit pull requests or create issues to suggest additions or modifications to the existing content.
+- [Goud.ma news website](https://huggingface.co/datasets/Goud/Goud-sum)
+- [POS tagged tweets  in dialects of Arabic](https://huggingface.co/datasets/arabic_pos_dialect)
+- [Moroccan Darija Wikipedia dataset](https://huggingface.co/datasets/AbderrahmanSkiredj1/moroccan_darija_wikipedia_dataset)
+- [Darija Stories Dataset](https://huggingface.co/datasets/Ali-C137/Darija-Stories-Dataset)
+- [Moroccan news articles in modern Arabic](https://huggingface.co/datasets/J-Mourad/MNAD.v2)
+- [Sentiment Analysis dataset for under-represented African languages](https://huggingface.co/datasets/HausaNLP/AfriSenti-Twitter)
+- [Darija Dataset](https://huggingface.co/datasets/Muennighoff/xP3x/viewer/ary_Arab/train)
 
 ## Arabic and Darija Linguistic Resources
 
@@ -49,13 +48,14 @@ Feel free to contribute to this collection by adding more resources and reposito
 
 - [Darija Transliteration Tool](link): A web-based tool for transliterating Darija text into the Latin script for improved readability.
 
-Feel free to contribute to this collection by adding more resources and repositories related to Darija NLP. You can submit pull requests or create issues to suggest additions or modifications to the existing content.
-
 ## Arabic and Darija NLP Research Lab
 
-- [Darija Transliteration Tool](link): A web-based tool for transliterating Darija text into the Latin script for improved readability.
-
-Feel free to contribute to this collection by adding more resources and repositories related to Darija NLP. You can submit pull requests or create issues to suggest additions or modifications to the existing content.
+- [Arabic Language Technologies Group at Qatar Computing Research Institute (QCRI)](https://alt.qcri.org/)
+- [CAMeL Lab at New York University Abu Dhabi](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab.html)
 
 ## Computing Resources
+- [High-Performance Computing Solution Supporting the Moroccan Scientific Community](https://hpc.marwan.ma/index.php/en/)
+
 **Note:** Please adhere to the guidelines provided by each resource or repository.
+
+Feel free to contribute to this collection by adding more resources and repositories related to Darija NLP. You can submit pull requests or create issues to suggest additions or modifications to the existing content.
