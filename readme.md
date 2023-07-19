@@ -61,7 +61,7 @@ This repository serves as a curated collection of resources and repositories for
 - [SAFAR](http://arabic.emi.ac.ma/safar/): SAFAR is a monolingual framework developed in accordance with software engineering requirements and dedicated to Arabic language, especially, the modern standard Arabic and Moroccan dialect. 
 - [Farasa](https://farasa.qcri.org/): Farasa is a package to deal with Arabic Language Processing.
 - [CAMeL Lab at New York University Abu Dhabi.](https://github.com/CAMeL-Lab/camel_tools): CAMeL Tools is a suite of Arabic natural language processing tools.
-- 
+  
 ## Arabic and Darija NLP Evaluation Benchmarks
 
 - [A Gold Standard Corpus for Arabic Stemmers Evaluation](http://catalog.elra.info/en-us/repository/search/?q=nafis)
