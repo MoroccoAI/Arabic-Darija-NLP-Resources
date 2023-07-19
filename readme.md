@@ -54,7 +54,13 @@ This repository serves as a curated collection of resources and repositories for
 ## Arabic and Darija NLP Evaluation Benchmark
 - [ORCA benchmark](https://orca.dlnlp.ai/)
 - 
-
+## Arabic and Darija NLP Books and Reference papers
+- books and reference papers
+    - Nizar Habash, Introduction to Arabic NLP
+    - Ali Farghaly, The Arabic language, Arabic linguistics and Arabic computational linguistics
+- Survey Documents
+    - Panoramic survey of NLP in the Arab World
+    - NLP of Semitic Languages
 ## Arabic and Darija NLP Conferences
 
 - [International Conference on Arabic Computational Linguistics](https://acling.org/): A web-based tool for transliterating Darija text into the Latin script for improved readability.
@@ -69,7 +75,7 @@ This repository serves as a curated collection of resources and repositories for
 - [Oujda NLP Team](http://oujda-nlp-team.net/)
 - [Arabic Natural Language Processing Research Group (ANLP-RG)](https://sites.google.com/site/anlprg/)
 
-## Arabic and Darija Communities and scientific societies
+## Arabic and Darija Communities and Scientific Societies
 - [ARBML community](https://arbml.github.io/website/index.html): ARBML is a community of +500 researchers working on Arabic NLP research and development.
 - 
 
