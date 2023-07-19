@@ -14,9 +14,9 @@ This repository serves as a curated collection of resources and repositories for
 - [Arabic and Darija NLP Datasets](#arabic-darija-nlp-datasets)
 - [Arabic and Darija Linguistic Resources](#arabic-darija-nlp-linguistic-resources)
 - [Arabic and Darija NLP Frameworks](#arabic-darija-nlp-frameworks)
-- [Arabic and Darija NLP Evaluation Benchmark](#arabic-darija-nlp-evaluation)
+- [Arabic and Darija NLP Evaluation Benchmarks](#arabic-darija-nlp-evaluation)
 - [Arabic and Darija NLP Books and Reference papers](#arabic-darija-nlp-papers)
-- [Arabic and Darija NLP Research Lab](#arabic-darija-nlp-research-labs)
+- [Arabic and Darija NLP Research Labs](#arabic-darija-nlp-research-labs)
 - [Arabic and Darija NLP Conferences](#arabic-darija-nlp-conferences)
 - [Arabic and Darija Communities and scientific societies](#arabic-darija-nlp-communities)
 
@@ -69,16 +69,23 @@ This repository serves as a curated collection of resources and repositories for
 - [Taqyim](https://github.com/arbml/taqyim)
   
 ## Arabic and Darija NLP Books and Reference papers
+
 - Books and reference papers
     - [Nizar Habash, Introduction to Arabic NLP](https://link.springer.com/book/10.1007/978-3-031-02139-8)
     - [Ali Farghaly, The Arabic language, Arabic linguistics and Arabic computational linguistics](https://www.academia.edu/2699868/The_Arabic_Language_Arabic_Linguistics_and_Arabic_Computational_Linguistics)
 - Survey Documents
     - [Panoramic survey of NLP in the Arab World](https://arxiv.org/abs/2011.12631)
     - [NLP of Semitic Languages](https://link.springer.com/book/10.1007/978-3-642-45358-8)
+    - 
 ## Arabic and Darija NLP Conferences
 
-- [International Conference on Arabic Computational Linguistics](https://acling.org/): A web-based tool for transliterating Darija text into the Latin script for improved readability.
+- [International Conference on Arabic Computational Linguistics](https://acling.org/)
 - [International Conference on Arabic Language Processing ICALP](https://icalp2019.loria.fr/): Next 2023 edition will take place at ENSIAS.
+- [WANLP: Arabic NLP workshop](https://wanlp2023.sigarab.org/)
+- [OSACT: Workshop on Open-Source Arabic Corpora and Processing Tools](https://osact-lrec.github.io/)
+- [Doctoral Symposium on Arabic Language Engineering](http://www.alesm.ma/jdila2021/indexEn.html)
+- [IWABigDAI: International Workshop on Arabic Big Data & AI](https://www.hbku.edu.qa/en/academic-events/CHSS-AI-IWABDAI)
+- [Eval4NLP: Workshop on Evaluation and Comparison of NLP Systems](https://eval4nlp.github.io/2023/index.html)
 
 ## Arabic and Darija NLP Research Labs
 
