@@ -1,6 +1,12 @@
 # Arabic and Darija NLP Resources
 
-This repository serves as a curated collection of resources and repositories for Natural Language Processing (NLP) tasks specific to Darija, the Moroccan Arabic dialect. These resources are aimed at students and researchers interested in Darija processing and analysis.
+This repository serves as a curated collection of resources and repositories for Natural Language Processing (NLP) tasks specific to Darija, the Moroccan Arabic dialect. These resources are aimed at students and researchers interested in Darija processing and analysis. Arabic and Mendeley Resources can be found in Kaggle, Mendeley, Huggingface, and also in : 
+  - [Clarin](https://www.clarin.eu/) 
+  - [ELRA](http://www.elra.info)  
+  - [LDC](https://www.ldc.upenn.edu/)
+  - [Masader](https://arbml.github.io/masader/)
+  - [open data in morocco](https://www.data.gov.ma/)
+  - [Alelm website](http://arabic.emi.ac.ma/alelm/#Resources)
 
 ## Contents
 
@@ -44,6 +50,7 @@ This repository serves as a curated collection of resources and repositories for
 - [ADI17: A Fine-Grained Arabic Dialect Identification Dataset](https://www.researchgate.net/publication/338843159_ADI17_A_Fine-Grained_Arabic_Dialect_Identification_Dataset)
 - [DART, includes Maghrebi, Egyptian, Levantine, Gulf, and Iraqi Arabic](https://qspace.qu.edu.qa/handle/10576/15265)
 - [ARABIC NLP DATA CATALOGUE](https://arbml.github.io/masader/)
+- [MADAR](https://sites.google.com/nyu.edu/madar/)
 
 ## Arabic and Darija Linguistic Resources
 
@@ -57,7 +64,7 @@ This repository serves as a curated collection of resources and repositories for
 - 
 ## Arabic and Darija NLP Evaluation Benchmarks
 
-- [A Gold Standard Corpus for Arabic Stemmers Evaluation](https://www.researchgate.net/publication/311908592_NAFIS_A_Gold_Standard_Corpus_for_Arabic_Stemmers_Evaluation)
+- [A Gold Standard Corpus for Arabic Stemmers Evaluation](http://catalog.elra.info/en-us/repository/search/?q=nafis)
 - [ORCA benchmark](https://orca.dlnlp.ai/)
 - [Taqyim](https://github.com/arbml/taqyim)
   
