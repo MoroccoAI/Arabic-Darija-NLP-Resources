@@ -87,6 +87,7 @@ This repository serves as a curated collection of resources and repositories for
 - [IWABigDAI: International Workshop on Arabic Big Data & AI](https://www.hbku.edu.qa/en/academic-events/CHSS-AI-IWABDAI)
 - [Eval4NLP: Workshop on Evaluation and Comparison of NLP Systems](https://eval4nlp.github.io/2023/index.html)
 
+Alongside other prominent NLP conferences such as LREC, EMNLP, and ACL.
 ## Arabic and Darija NLP Research Labs
 
 - [ALELM (Arabic Language Engineering and Learning Modeling)](http://arabic.emi.ac.ma/alelm/)
