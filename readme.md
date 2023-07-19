@@ -5,12 +5,14 @@ This repository serves as a curated collection of resources and repositories for
 ## Contents
 
 - [Arabic and Darija NLP Models](#arabic-darija-nlp-models)
-- [Arabic and Darija NLP Frameworks](#arabic-darija-nlp-frameworks)
 - [Arabic and Darija NLP Datasets](#arabic-darija-nlp-datasets)
+- [Arabic and Darija Linguistic Resources](#arabic-darija-nlp-linguistic-resources)
+- [Arabic and Darija NLP Frameworks](#arabic-darija-nlp-frameworks)
+- [Arabic and Darija NLP Evaluation Benchmark](#arabic-darija-nlp-evaluation)
+- [Arabic and Darija NLP Books and Reference papers](#arabic-darija-nlp-papers)
 - [Arabic and Darija NLP Research Lab](#arabic-darija-nlp-research-labs)
 - [Arabic and Darija NLP Conferences](#arabic-darija-nlp-conferences)
-- [Arabic and Darija Linguistic Resources](#arabic-darija-nlp-linguistic-resources)
-- [Arabic and Darija Communities](#arabic-darija-nlp-communities)
+- [Arabic and Darija Communities and scientific societies](#arabic-darija-nlp-communities)
 
 
 ## Arabic and Darija NLP Models
@@ -26,12 +28,6 @@ This repository serves as a curated collection of resources and repositories for
 - [Bert base arabertv2](https://huggingface.co/aubmindlab/bert-base-arabertv2)
 - [Bert-base-arabic-camelbert-da-sentiment](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment)
 - [Magbert-ner](https://huggingface.co/TypicaAI/magbert-ner)
-
-## Arabic and Darija NLP Frameworks
-
-- [SAFAR](http://arabic.emi.ac.ma/safar/): SAFAR is a monolingual framework developed in accordance with software engineering requirements and dedicated to Arabic language, especially, the modern standard Arabic and Moroccan dialect. 
-- [Farasa](https://farasa.qcri.org/): Farasa is a package to deal with Arabic Language Processing.
-- [CAMeL Lab at New York University Abu Dhabi.](https://github.com/CAMeL-Lab/camel_tools): CAMeL Tools is a suite of Arabic natural language processing tools.
 
 ## Arabic and Darija NLP Datasets
 
@@ -50,18 +46,32 @@ This repository serves as a curated collection of resources and repositories for
 - [ARABIC NLP DATA CATALOGUE](https://arbml.github.io/masader/)
 
 ## Arabic and Darija Linguistic Resources
+## Arabic and Darija NLP Frameworks
 
-## Arabic and Darija Communities
-- [ARBML community](https://arbml.github.io/website/index.html): ARBML is a community of +500 researchers working on Arabic NLP research and development.
+- [SAFAR](http://arabic.emi.ac.ma/safar/): SAFAR is a monolingual framework developed in accordance with software engineering requirements and dedicated to Arabic language, especially, the modern standard Arabic and Moroccan dialect. 
+- [Farasa](https://farasa.qcri.org/): Farasa is a package to deal with Arabic Language Processing.
+- [CAMeL Lab at New York University Abu Dhabi.](https://github.com/CAMeL-Lab/camel_tools): CAMeL Tools is a suite of Arabic natural language processing tools.
+## Arabic and Darija NLP Evaluation Benchmark
+- [ORCA benchmark](https://orca.dlnlp.ai/)
 - 
+
 ## Arabic and Darija NLP Conferences
 
 - [International Conference on Arabic Computational Linguistics](https://acling.org/): A web-based tool for transliterating Darija text into the Latin script for improved readability.
+- [International Conference on Arabic Language Processing ICALP](https://icalp2019.loria.fr/): Next 2023 edition will take place at ENSIAS.
 
-## Arabic and Darija NLP Research Lab
+## Arabic and Darija NLP Research Labs
 
+- [ALELM (Arabic Language Engineering and Learning Modeling)](http://arabic.emi.ac.ma/alelm/)
 - [Arabic Language Technologies Group at Qatar Computing Research Institute (QCRI)](https://alt.qcri.org/)
 - [CAMeL Lab at New York University Abu Dhabi](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab.html)
+- [SinaLab for Computational Linguistics and Artificial Intelligence](https://sina.birzeit.edu/)
+- [Oujda NLP Team](http://oujda-nlp-team.net/)
+- [Arabic Natural Language Processing Research Group (ANLP-RG)](https://sites.google.com/site/anlprg/)
+
+## Arabic and Darija Communities and scientific societies
+- [ARBML community](https://arbml.github.io/website/index.html): ARBML is a community of +500 researchers working on Arabic NLP research and development.
+- 
 
 ## Computing Resources
 - [High-Performance Computing Solution Supporting the Moroccan Scientific Community](https://hpc.marwan.ma/index.php/en/)
