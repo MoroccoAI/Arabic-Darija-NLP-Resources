@@ -1,6 +1,6 @@
 # Arabic and Darija NLP Resources
 
-This repository serves as a curated collection of resources and repositories for Natural Language Processing (NLP) tasks specific to Darija, the Moroccan Arabic dialect. These resources are aimed at students and researchers interested in Darija processing and analysis. You can find Arabic and Darija resources in various platforms including Kaggle, Mendeley, Huggingface, as well as the following:
+This repository serves as a curated collection of resources and repositories for Natural Language Processing (NLP) tasks specific to Arabic and Darija, the Moroccan Arabic dialect. These resources are aimed at students and researchers interested in Arabic and Darija processing and analysis. You can find Arabic and Darija resources in various platforms including Kaggle, Mendeley, Huggingface, as well as the following:
   - [Clarin](https://www.clarin.eu/) 
   - [ELRA](http://www.elra.info)  
   - [LDC](https://www.ldc.upenn.edu/)
