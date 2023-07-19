@@ -18,7 +18,7 @@ This repository serves as a curated collection of resources and repositories for
 - [Arabic and Darija NLP Books and Reference papers](#arabic-darija-nlp-papers)
 - [Arabic and Darija NLP Research Labs](#arabic-darija-nlp-research-labs)
 - [Arabic and Darija NLP Conferences](#arabic-darija-nlp-conferences)
-- [Arabic and Darija Communities and scientific societies](#arabic-darija-nlp-communities)
+- [Arabic and Darija Communities and Scientific Societies](#arabic-darija-nlp-communities)
 
 
 ## Arabic and Darija NLP Models
