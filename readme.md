@@ -55,7 +55,7 @@ This repository serves as a curated collection of resources and repositories for
 - [ORCA benchmark](https://orca.dlnlp.ai/)
 - 
 ## Arabic and Darija NLP Books and Reference papers
-- books and reference papers
+- Books and reference papers
     - Nizar Habash, Introduction to Arabic NLP
     - Ali Farghaly, The Arabic language, Arabic linguistics and Arabic computational linguistics
 - Survey Documents
