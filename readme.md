@@ -70,11 +70,11 @@ This repository serves as a curated collection of resources and repositories for
   
 ## Arabic and Darija NLP Books and Reference papers
 - Books and reference papers
-    - Nizar Habash, Introduction to Arabic NLP
-    - Ali Farghaly, The Arabic language, Arabic linguistics and Arabic computational linguistics
+    - [Nizar Habash, Introduction to Arabic NLP](https://link.springer.com/book/10.1007/978-3-031-02139-8)
+    - [Ali Farghaly, The Arabic language, Arabic linguistics and Arabic computational linguistics](https://www.academia.edu/2699868/The_Arabic_Language_Arabic_Linguistics_and_Arabic_Computational_Linguistics)
 - Survey Documents
-    - Panoramic survey of NLP in the Arab World
-    - NLP of Semitic Languages
+    - [Panoramic survey of NLP in the Arab World](https://arxiv.org/abs/2011.12631)
+    - [NLP of Semitic Languages](https://link.springer.com/book/10.1007/978-3-642-45358-8)
 ## Arabic and Darija NLP Conferences
 
 - [International Conference on Arabic Computational Linguistics](https://acling.org/): A web-based tool for transliterating Darija text into the Latin script for improved readability.
