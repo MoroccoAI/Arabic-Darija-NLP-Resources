@@ -28,6 +28,7 @@ This repository serves as a curated collection of resources and repositories for
 - [DarijaBERT Mix](https://huggingface.co/SI2M-Lab/DarijaBERT-mix)
 - [MorRoBERTa](https://huggingface.co/otmangi/MorRoBERTa)
 - [MorrBERT](https://huggingface.co/otmangi/MorrBERT)
+- [MARBERT](https://huggingface.co/UBC-NLP/MARBERTv2)
 - [AraBERT summarization goud](https://huggingface.co/Goud/AraBERT-summarization-goud)
 - [DarijaBERT](https://github.com/AIOXLABS/DBert)
 - [Aragpt2 base](https://huggingface.co/aubmindlab/aragpt2-base)
