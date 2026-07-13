@@ -62,6 +62,12 @@ This repository serves as a curated collection of resources and repositories for
 - [SAFAR](http://arabic.emi.ac.ma/safar/): SAFAR is a monolingual framework developed in accordance with software engineering requirements and dedicated to Arabic language, especially, the modern standard Arabic and Moroccan dialect. 
 - [Farasa](https://farasa.qcri.org/): Farasa is a package to deal with Arabic Language Processing.
 - [CAMeL Lab at New York University Abu Dhabi.](https://github.com/CAMeL-Lab/camel_tools): CAMeL Tools is a suite of Arabic natural language processing tools.
+
+### Darija-specific tools
+
+- [darija-tools](https://github.com/Samielakkad/darija-tools): Dependency-free Python utilities for Moroccan Darija text normalization and rule-based Arabizi-to-Arabic transliteration.
+- [DarijaTokenizers](https://github.com/ImadSaddik/DarijaTokenizers): Pretrained BPE tokenizers with 1,024, 16,384, and 32,768-token vocabularies, trained on a 10-million-character sample of AtlaSet.
+- [Darija Transliteration System](https://github.com/Mehdi192002/Darija-Transliteration): A ByT5 training, evaluation, and inference pipeline for bidirectional Arabic-script and Latin-script Darija transliteration.
   
 ## Arabic and Darija NLP Evaluation Benchmarks
 
