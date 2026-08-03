@@ -53,7 +53,7 @@ This repository serves as a curated collection of resources and repositories for
 - [ARABIC NLP DATA CATALOGUE](https://arbml.github.io/masader/)
 - [MADAR](https://sites.google.com/nyu.edu/madar/)
 - [Tunisian Arabic (Derja) NLP resources — access-verified inventory of datasets, speech corpora, models and benchmarks](https://github.com/jjlalli/Tunisian-Derja-NLP-Resources)
-  
+
 ## Arabic and Darija Linguistic Resources
 
 - [List of Lexicons](http://arabic.emi.ac.ma/alelm/?page_id=273/#Lexicon)
