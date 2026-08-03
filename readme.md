@@ -52,6 +52,7 @@ This repository serves as a curated collection of resources and repositories for
 - [DART, includes Maghrebi, Egyptian, Levantine, Gulf, and Iraqi Arabic](https://qspace.qu.edu.qa/handle/10576/15265)
 - [ARABIC NLP DATA CATALOGUE](https://arbml.github.io/masader/)
 - [MADAR](https://sites.google.com/nyu.edu/madar/)
+- [Tunisian Arabic (Derja) NLP resources — access-verified inventory of datasets, speech corpora, models and benchmarks](https://github.com/jjlalli/Tunisian-Derja-NLP-Resources)
 
 ## Arabic and Darija Linguistic Resources
 
