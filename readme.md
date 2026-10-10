@@ -56,6 +56,7 @@ This repository serves as a curated collection of resources and repositories for
 ## Arabic and Darija Linguistic Resources
 
 - [List of Lexicons](http://arabic.emi.ac.ma/alelm/?page_id=273/#Lexicon)
+- [Arabic–French glossary of Moroccan civil-service terms: 924 grade and employer name pairs from official sources (CC BY 4.0)](https://github.com/wadifainfo/morocco-public-jobs-data/tree/main/data/glossary)
   
 ## Arabic and Darija NLP Frameworks
 
